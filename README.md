@@ -1,2 +1,17 @@
-# Digital-password-lock-system
-Password verification system designed using XNOR gates and JK flip-flops for secure digital access control.
+# Digital Password Lock System
+
+## Overview
+This is a digital password lock system built using logic circuits.
+
+## Working
+- Uses XNOR gates to compare password
+- Uses JK flip-flops to store state
+- LED shows lock/unlock
+
+## Output
+See images below
+
+## Circuit Diagram
+![Circuit](images/circuit-diagram.png)
+
+![Circuit](circuit-diagram.png)
