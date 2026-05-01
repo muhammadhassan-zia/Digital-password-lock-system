@@ -12,6 +12,6 @@ This is a digital password lock system built using logic circuits.
 See images below
 
 ## Circuit Diagram
-![Circuit](images/circuit-diagram.png)
+![Circuit](circuit-diagram.png)
 
 ![Circuit](circuit-diagram.png)
