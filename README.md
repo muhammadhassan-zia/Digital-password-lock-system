@@ -13,5 +13,3 @@ See images below
 
 ## Circuit Diagram
 ![Circuit](circuit-diagram.png)
-
-![Circuit](circuit-diagram.png)
